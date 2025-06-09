@@ -4,4 +4,10 @@ Hello New commit
 feature branch
 feature branch -rebase
 new feature-branch
+<<<<<<< HEAD
 old main branch
+=======
+
+
+test rebase
+>>>>>>> b85a2f0 (rebse)
